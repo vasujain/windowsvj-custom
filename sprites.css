@@ -1,0 +1,59 @@
+.sprite {
+	background-image: url(images/spritesheet.png);
+	background-repeat: no-repeat;
+	display: block
+}
+
+.sprite-icon-globe {
+	width: 32px;
+	height: 32px;
+	background-position: -5px -5px
+}
+
+.sprite-icon-email {
+	width: 32px;
+	height: 32px;
+	background-position: -47px -5px
+}
+
+.sprite-icon-fb {
+	width: 32px;
+	height: 32px;
+	background-position: -89px -5px
+}
+
+.sprite-icon-gplus {
+	width: 32px;
+	height: 32px;
+	background-position: -5px -47px
+}
+
+.sprite-icon-twitter {
+	width: 32px;
+	height: 32px;
+	background-position: -47px -47px
+}
+
+.sprite-icon-linkedin {
+	width: 32px;
+	height: 32px;
+	background-position: -89px -47px
+}
+
+.sprite-icon-pinterest {
+	width: 32px;
+	height: 32px;
+	background-position: -5px -89px
+}
+
+.sprite-icon-rss {
+	width: 32px;
+	height: 32px;
+	background-position: -47px -89px
+}
+
+.sprite-icon-youtube {
+	width: 32px;
+	height: 32px;
+	background-position: -89px -89px
+}
